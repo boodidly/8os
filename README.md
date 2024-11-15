@@ -26,8 +26,8 @@ nano ~/.config/i3/config
 2. Add the following rules to allow the application to open external programs:
 ```bash
 # Terminal UI Application Rules
-for_window [class="terminal-ui"] floating enable
-for_window [class="terminal-ui"] border pixel 2
+for_window [class="8os"] floating enable
+for_window [class="8os"] border pixel 2
 ```
 
 3. Configure application permissions:
