@@ -2,7 +2,7 @@
 
 A new way to compute.
 
-## Installation on Arch Linux
+## Installation on Arch Linux mith i3WM
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@ for_window [class="terminal-ui"] border pixel 2
 3. Configure application permissions:
 ```bash
 # Create a policy file
-sudo nano /etc/polkit-1/rules.d/50-terminal-ui.rules
+sudo nano /etc/polkit-1/rules.d/50-8os.rules
 ```
 
 4. Add the following content:
@@ -60,7 +60,7 @@ sudo usermod -aG wheel $USER
 1. Clone the repository:
 ```bash
 git clone https://github.com/boodidly/8os.git
-cd terminal-ui
+cd 8os
 ```
 
 2. Install project dependencies:
@@ -145,7 +145,7 @@ groups $USER
 
 2. Verify polkit rules:
 ```bash
-ls -l /etc/polkit-1/rules.d/50-terminal-ui.rules
+ls -l /etc/polkit-1/rules.d/50-8os.rules
 ```
 
 3. Restart polkit:
@@ -154,5 +154,8 @@ sudo systemctl restart polkit
 ```
 
 ## License
+Free To All Good Homes
+I/We Take All Care && Zero, Zip, Zilch Resposibility For Any Harm, Loss, Deconstruction or Appocolyptical Type Outcomes Caused by using our Lovely Software
+Enjoy ;~}  
 
-MIT License - See LICENSE file for details
+Don't Forget to Tip on The Way Out, Let's Keep it Free !!!
