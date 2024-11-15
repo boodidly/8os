@@ -33,11 +33,9 @@ export function LeftPanel({ onCommand }: LeftPanelProps) {
   });
 
   const defaultButtons = [
-    { id: "mail", name: "Check Mail", icon: Mail, command: "python3 .mail_064.py" },
-    { id: "node", name: "Node.js", icon: Terminal, command: "node" },
-    { id: "npm", name: "NPM", icon: Package, command: "npm" },
-    { id: "json", name: "JSON Tools", icon: FileJson, command: "jq" },
-    { id: "import", name: "Import Application", icon: Import, command: "import" }
+    { id: "Browser", name: "Web Search", icon: Mail, command: "chromium" },
+    { id: "Terminal", name: "Terminal", icon: Terminal, command: "mate-terminal" },
+    { id: "File Manager", name: "Files", icon: Package, command: "caja" }
   ];
 
   const handleAddButton = () => {
