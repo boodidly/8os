@@ -1,6 +1,6 @@
-# Terminal UI
+# 8os
 
-A beautiful, modern terminal interface with customizable buttons, themes, and integrated browser.
+A new way to compute.
 
 ## Installation on Arch Linux
 
@@ -8,7 +8,7 @@ A beautiful, modern terminal interface with customizable buttons, themes, and in
 
 1. Update system packages:
 ```bash
-sudo pacman -Syu
+sudo pacman -Syyu
 ```
 
 2. Install required dependencies:
@@ -59,30 +59,13 @@ sudo usermod -aG wheel $USER
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/terminal-ui
+git clone https://github.com/boodidly/8os.git
 cd terminal-ui
 ```
 
 2. Install project dependencies:
 ```bash
 npm install
-```
-
-3. Create required Python script:
-```bash
-echo '#!/usr/bin/env python3
-
-def main():
-    print("Checking mail...")
-    print("No new messages.")
-
-if __name__ == "__main__":
-    main()' > .mail_064.py
-```
-
-4. Make the Python script executable:
-```bash
-chmod +x .mail_064.py
 ```
 
 ### Running the Application
@@ -102,8 +85,7 @@ http://localhost:3000
 - **Integrated Browser**: Default browser view in the main panel
 - **Custom Commands**: Add your own command buttons with the '+' button
 - **Theme Customization**: Adjust colors and glow effects
-- **Built-in Tools**:
-  - Mail Checker
+- **Built-in Tools**
   - Node.js REPL
   - NPM Interface
   - JSON Tools
