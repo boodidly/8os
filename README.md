@@ -2,7 +2,7 @@
 
 A new way to compute.
 
-## Installation on Arch Linux mith i3WM
+## Installation on Arch Linux with i3WM
 
 ### Prerequisites
 
