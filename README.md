@@ -2,7 +2,8 @@
 
 # Browser Not Opening 
 
-![image](https://github.com/user-attachments/assets/4f7b972f-d63d-4834-9450-53b140b068d5)
+![image](https://github.com/user-attachments/assets/9138453a-7cf8-42ef-96b6-9c28b76094c8)
+
 
 # Currently Terminal not Opening
 
