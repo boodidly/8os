@@ -1,4 +1,10 @@
-![ksnip_20241115-093816](https://github.com/user-attachments/assets/20bbadb5-6c7f-4782-9a52-7588c155b721)
+![image](https://github.com/user-attachments/assets/6845fcbe-3a95-47e5-8c1f-1c67247b2676)
+
+# Browser Not Opening 
+
+![image](https://github.com/user-attachments/assets/4f7b972f-d63d-4834-9450-53b140b068d5)
+
+# Currently Terminal not Opening
 
 
 # 8os
