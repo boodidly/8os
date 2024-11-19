@@ -8,7 +8,7 @@
 
 
 # What is 8os 
-8os started out as an AI chatbot to make my Fabric.ai commands easily accessable & executable through voice commands, though as the possibilities started to grow, it came to me that 8os could become a fully functional operating system accessable within a browser.
+8os started out as an AI chatbot to make my Fabric.ai commands easily accessable & executable through voice commands, though as the possibilities grew, it came to me that 8os could become a fully functional operating system accessable within a browser.
 
 # How does it work 
 Set up 8os on you home PC, with however many glorious GPU's you can muster, then you can simply whitelist your devices for remote access & wah-lah. Now open any browser & you have access to all the power of those home GPU's right in the palm of your hand.
