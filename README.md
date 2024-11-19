@@ -7,11 +7,11 @@
 ![image](https://github.com/user-attachments/assets/6845fcbe-3a95-47e5-8c1f-1c67247b2676)
 
 
-# What is 8os > 
-A fully functional operating system accessable within any browser.
+# What is 8os 
+8os started out as an AI chatbot to make my Fabric.ai commands easily accessable & executable through voice commands, though as the possibilities started to grow, it came to me that 8os could become a fully functional operating system accessable within a browser.
 
-# How does it work > 
-Set up 8os on you home PC, with however many glorious GPU's you can muster, then you can simply whitelist your devices for remote access & wah-lah. Now open any browser & you now have access to all the power of those home GPU's right in the palm of your hand.
+# How does it work 
+Set up 8os on you home PC, with however many glorious GPU's you can muster, then you can simply whitelist your devices for remote access & wah-lah. Now open any browser & you have access to all the power of those home GPU's right in the palm of your hand.
 
 Why Open Sourced > Everthing I know about software has come from Open Sourced software, so thankyou to ALL the Open Sourced devs past, present & future !!! now it's my turn ;~} 
 
