@@ -1,5 +1,4 @@
-
-(https://github.com/user-attachments/assets/4dc2eff1-7223-44fc-8548-fd945f3aa6d9)
+![ksnip_20241115-093816](https://github.com/user-attachments/assets/20bbadb5-6c7f-4782-9a52-7588c155b721)
 
 
 # 8os
