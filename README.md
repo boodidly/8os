@@ -1,4 +1,4 @@
-# Currently Terminal & Browser not Opening
+Currently Terminal & Browser not Opening
 
 # Terminal
 ![image](https://github.com/user-attachments/assets/63de4027-6f60-4363-acf0-b0a7dab76077)
