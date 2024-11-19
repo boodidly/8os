@@ -1,12 +1,19 @@
-![image](https://github.com/user-attachments/assets/6845fcbe-3a95-47e5-8c1f-1c67247b2676)
+# Currently Terminal & Browser not Opening
 
-# Browser Not Opening 
-
+# Terminal
 ![image](https://github.com/user-attachments/assets/9138453a-7cf8-42ef-96b6-9c28b76094c8)
 
+# Browser 
+![image](https://github.com/user-attachments/assets/6845fcbe-3a95-47e5-8c1f-1c67247b2676)
 
-# Currently Terminal not Opening
 
+# What is 8os > 
+A fully functional operating system accessable within any browser.
+
+# How does it work > 
+You set this up on you home PC, with however many glorious GPU's you can muster, then you can simply whitelist your devices for remote access & wah-lah open any browser, you now have access to all the power of those home GPU's right in the palm of your hand.
+
+Why Open Sourced > Everthing I know about software has come from Open Sourced software, so thankyou to ALL the Open Sourced devs past, present & future !!! now it's my turn ;~} 
 
 # 8os
 
