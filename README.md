@@ -11,7 +11,7 @@
 A fully functional operating system accessable within any browser.
 
 # How does it work > 
-You set this up on you home PC, with however many glorious GPU's you can muster, then you can simply whitelist your devices for remote access & wah-lah open any browser, you now have access to all the power of those home GPU's right in the palm of your hand.
+Set up 8os on you home PC, with however many glorious GPU's you can muster, then you can simply whitelist your devices for remote access & wah-lah. Now open any browser & you now have access to all the power of those home GPU's right in the palm of your hand.
 
 Why Open Sourced > Everthing I know about software has come from Open Sourced software, so thankyou to ALL the Open Sourced devs past, present & future !!! now it's my turn ;~} 
 
