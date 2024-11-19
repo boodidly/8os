@@ -1,3 +1,7 @@
+
+(https://github.com/user-attachments/assets/4dc2eff1-7223-44fc-8548-fd945f3aa6d9)
+
+
 # 8os
 
 A new way to compute.
