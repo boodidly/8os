@@ -155,7 +155,9 @@ sudo systemctl restart polkit
 
 ## License
 Free To All Good Homes
-I/We Take All Care && Zero, Zip, Zilch Resposibility For Any Harm, Loss, Deconstruction or Appocolyptical Type Outcomes Caused by using our Lovely Software
+
+I/We Take All Care && Zero, Zip, Zilch Resposibility For Any Harm, Loss, Deconstruction or Appocolyptical Type Outcomes Caused by using our Lovely Software,
+
 Enjoy ;~}  
 
-Don't Forget to Tip on The Way Out, Let's Keep it Free !!!
+Don't Forget to Tip on The Way Out, Let's Keep it Free For Those Who Can't afford It !!!
